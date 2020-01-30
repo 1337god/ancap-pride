@@ -3,5 +3,5 @@
 Just in case github changes any of the colours,
 this is what it's supposed to look like:
 
-![]()
+![](https://i.imgur.com/eAFlsYL.png)
 
